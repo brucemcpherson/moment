@@ -1,9 +1,9 @@
 # Google Apps Script Project: moment
-This repo (moment) was automatically updated on 13 February 2015 21:20:12 GMT by GasGit
+This repo (moment) was automatically updated on 15 September 2015 11:48:51 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project moment
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [moment is here](https://script.google.com/d/1HKzOd7-49gNJ1I4a3yamEh-zcnj4LfjRSG1iOiUjLPIAh1nQzCcahtPK/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of moment.gs included in this repo
@@ -15,6 +15,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)
